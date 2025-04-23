@@ -1,3 +1,0 @@
-[submodule "git_sample_repo_child"]
-	path = git_sample_repo_child
-	url = https://github.com/kumitaakira453/git_sample_repo_child
